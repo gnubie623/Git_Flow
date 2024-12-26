@@ -1,2 +1,2 @@
-# test_repo
+# Now it's Git_Flow
 none
